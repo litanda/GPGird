@@ -9,6 +9,6 @@ All learned GP models are available on
 
 https://drive.google.com/drive/folders/1USZE3wTjvVaS0VbCdhXFEOl9XsCJ2clw?usp=sharing
 
-A GP-predicted model dataset (contents 500,000 models) is also available on 
+The GP-predicted model dataset (mentioned in Section 6) is also available on 
 
 https://drive.google.com/file/d/1JwHMHjIHUJmC9Kt7VgK2FVDokC7dNSWK/view?usp=sharing
