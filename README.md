@@ -2,7 +2,7 @@
 Welcome to Tanda's repo. This repo is about applying Gaussian Process to stellar modelling. 
 The webpage is underdeveloping. If you find anything looks odd, please raise an issue. 
 
-Update 20211207: 
+% Update 20211207: 
 
 The main scripts used in paper draft named "Modelling stars with Gaussian Process Regression: Augmenting Stellar Model Grid" are uploaded ("script" folder).  
 All learned GP models are available on 
